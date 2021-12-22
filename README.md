@@ -10,6 +10,8 @@ Ozaman Yavaştan Nasıl Yapıcağımızı Ve Örneklerin Resimleri Aşağıda.
 
 2. ayarlar.json Ayarlayınız
 
+![image](https://i.hizliresim.com/ogxpleq.png)
+
 3. Şimdi Sizlere Botumuzdan Görüntüleri Aktarıcağım Aşağıya.
 
 ![image](https://i.hizliresim.com/6khdzrb.png)
